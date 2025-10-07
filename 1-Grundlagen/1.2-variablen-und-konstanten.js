@@ -1,4 +1,4 @@
-// Variablen & Konstanten
+// 1.2 Variablen & Konstanten
 //
 
 // var, let, const
@@ -35,6 +35,19 @@ let nullTyp = null;
 let undefinedTyp;
 let symbolTyp = Symbol("einzigartig");
 let bigintTyp = 1234567890123456789012345678901234567890n;
+
+// Beispiel Symboltyp
+const geheim = Symbol("geheim");
+let daten = {
+  öffentlich: "sichtbar",
+  [geheim]: "versteckt",
+};
+
+for (let key in daten) {
+  console.log(key); // nur "öffentlich"
+}
+
+console.log(Object.getOwnPropertySymbols(daten)); // [Symbol(geheim)]
 
 // Referenztypen
 let objektTyp = { key: "value" };
