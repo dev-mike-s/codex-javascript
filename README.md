@@ -9,39 +9,39 @@
 
 ### Syntax & Basiswissen
 
-- [ ] Code-Struktur: Statements, Semikolons, Codeblöcke
-- [ ] Kommentare (`//` und `/* ... */`)
-- [ ] Case-Sensitivity in Variablen und Funktionen
-- [ ] Verständnis von "Interpreter" vs. "Compiler"
+- [x] Code-Struktur: Statements, Semikolons, Codeblöcke
+- [x] Kommentare (`//` und `/* ... */`)
+- [x] Case-Sensitivity in Variablen und Funktionen
+- [x] Verständnis von "Interpreter" vs. "Compiler"
 
 ### Variablen & Konstanten
 
-- [ ] `var`, `let`, `const` – Unterschiede verstehen
-- [ ] Blockscope (`let`/`const`) vs. Functionscope (`var`)
-- [ ] Wann man `const` verwendet (Standard)
-- [ ] Reassigning vs. Immutable Variablen
+- [x] `var`, `let`, `const` – Unterschiede verstehen
+- [x] Blockscope (`let`/`const`) vs. Functionscope (`var`)
+- [x] Wann man `const` verwendet (Standard)
+- [x] Reassigning vs. Immutable Variablen
 
 ### Datentypen
 
-- [ ] **Primitive Typen**: `string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`
-- [ ] **Referenztypen**: `object`, `array`, `function`
-- [ ] `typeof`-Operator (`typeof value`)
-- [ ] Dynamische Typisierung – JavaScript als "loosely typed language"
+- [x] **Primitive Typen**: `string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`
+- [x] **Referenztypen**: `object`, `array`, `function`
+- [x] `typeof`-Operator (`typeof value`)
+- [x] Dynamische Typisierung – JavaScript als "loosely typed language"
 
 ### Operatoren
 
-- [ ] Arithmetische Operatoren (`+`, `-`, `*`, `/`, `%`, `**`)
-- [ ] Zuweisungsoperatoren (`+=`, `-=`, `*=`, `/=`)
-- [ ] Vergleichsoperatoren (`==` vs. `===`, `!=` vs. `!==`)
-- [ ] Logische Operatoren (`&&`, `||`, `!`)
-- [ ] Ternärer Operator (`condition ? value1 : value2`)
+- [x] Arithmetische Operatoren (`+`, `-`, `*`, `/`, `%`, `**`)
+- [x] Zuweisungsoperatoren (`+=`, `-=`, `*=`, `/=`)
+- [x] Vergleichsoperatoren (`==` vs. `===`, `!=` vs. `!==`)
+- [x] Logische Operatoren (`&&`, `||`, `!`)
+- [x] Ternärer Operator (`condition ? value1 : value2`)
 
 ---
 
 ## 2. Kontrollstrukturen
 
-- [ ] Bedingte Anweisungen (`if`, `else if`, `else`)
-- [ ] `switch`-Case Anweisungen
+- [x] Bedingte Anweisungen (`if`, `else if`, `else`)
+- [x] `switch`-Case Anweisungen
 - [ ] Schleifen: `for`, `while`, `do...while`
 - [ ] `for...of` für Arrays
 - [ ] `for...in` für Objekte
